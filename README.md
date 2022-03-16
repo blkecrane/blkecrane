@@ -1,8 +1,14 @@
-- 👋 Hi, I’m @blkecrane
-- 👀 I’m interested in UI/UX Art for VR Games.
-- 🌱 I’m currently learning motion graphics and HUD design.
-- 💞️ I’m looking to collaborate on game projects.
-- 📫 You can reach me on Twitter at @blkecrane
+- 📬 Reach me via <br>
+`Discord` :: Flqtline#1820 <br>
+`Twitter` :: [BlkeCrane](https://www.twitter.com/blkecrane) <br>
+`Email` :: [hi@blakecrane.co](mailto:hi@blakecrane.co) <br>
+
+- 💬 Ask me about <br>
+`UI/UX for VR Games` `UMG` `Unreal Engine`
+
+- 🧰 I'm currently working on <br>
+`Wrapping my head around MSDFs for UI applications` <br>
+`Completing Elden Ring`
 
 <!---
 blkecrane/blkecrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
